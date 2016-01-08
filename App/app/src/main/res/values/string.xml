@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Witaj">Wiatj w Lotto</string>
+    <string name="StartButton">START</string>
+    <string name="SecondActivity">Druga Aktywnosc</string>
+</resources>
